@@ -1,0 +1,19 @@
+{
+  "name": "data-access",
+  "version": "0.0.0",
+  "description": "DataAccess",
+  "main": "server.js",
+  "author": {
+    "name": "chn"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "mysql2": "^1.5.3",
+    "node-lambda": "^0.7.1",
+    "path": "^0.12.7",
+    "sequelize": "^4.37.4"
+  },
+  "scripts": {
+    "debug": "node --nolazy --inspect-brk=9229 server.js"
+  }
+}
