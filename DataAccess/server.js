@@ -225,10 +225,10 @@ db.Sequelize = Sequelize;
     //})
 
 
-//for (var i = 0; i < 10; i++) {
-//    console.log(i)
-//}
-//console.log(i)
+for (var i = 0; i < 10; i++) {
+    console.log(i)
+}
+console.log(i)
 
 ////for (let A = 0; A < 10; A++) {
 ////    console.log(A)
